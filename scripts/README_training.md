@@ -1,10 +1,10 @@
-# GPT Training Script
+# GPT Training and Analysis Scripts
 
-This directory contains the consolidated GPT training script that can train models of different sizes.
+This directory contains scripts to train and analyze models of different sizes.
 
 ## Files
 
-- **`gpt.py`** - Main training script (consolidated from individual scripts)
+- **`gpt.py`** - Model Definition and Training script
 - **`analysis.py`** - Analysis script for order parameters and loss curves
 
 ## Usage
